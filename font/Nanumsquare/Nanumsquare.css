@@ -1,0 +1,33 @@
+
+@font-face {
+ font-family: 'NanumSquare';
+ font-weight: 300;
+ src: url('./NanumSquareL.eot');
+ src: url('./NanumSquareL.eot?#iefix') format('embedded-opentype'),/* IE6-IE8 */
+      url('./NanumSquareL.woff') format('woff'),/* Modern Browsers */
+      url('./NanumSquareL.ttf') format('truetype');/* Chrome, Firefox, Opera, Safari, Android, iOS */
+}
+@font-face {
+ font-family: 'NanumSquare';
+ font-weight: 400;
+ src: url('./NanumSquareR.eot');
+ src: url('./NanumSquareR.eot?#iefix') format('embedded-opentype'),/* IE6-IE8 */
+      url('./NanumSquareR.woff') format('woff'),/* Modern Browsers */
+      url('./NanumSquareR.ttf') format('truetype');/* Chrome, Firefox, Opera, Safari, Android, iOS */
+}
+@font-face {
+ font-family: 'NanumSquare';
+ font-weight: 700;
+ src: url('./NanumSquareB.eot');
+ src: url('./NanumSquareB.eot?#iefix') format('embedded-opentype'),/* IE6-IE8 */
+      url('./NanumSquareB.woff') format('woff'),/* Modern Browsers */
+      url('./NanumSquareB.ttf') format('truetype');/* Chrome, Firefox, Opera, Safari, Android, iOS */
+}
+@font-face {
+ font-family: 'NanumSquare';
+ font-weight: 800;
+ src: url('./NanumSquareEB.eot');
+ src: url('./NanumSquareEB.eot?#iefix') format('embedded-opentype'),/* IE6-IE8 */
+      url('./NanumSquareEB.woff') format('woff'),/* Modern Browsers */
+      url('./NanumSquareEB.ttf') format('truetype');/* Chrome, Firefox, Opera, Safari, Android, iOS */
+}
